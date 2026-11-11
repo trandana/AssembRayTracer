@@ -1,0 +1,16 @@
+# build output
+build/
+*.obj
+*.pdb
+*.ilk
+*.lst
+*.exe
+.vs/
+
+# render output
+render.bmp
+
+# kept locally, not published
+docs/
+legacy/
+GUIDE.md
